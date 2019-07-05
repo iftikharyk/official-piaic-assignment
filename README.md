@@ -10,12 +10,12 @@
   <li>Question 5                                      -                                       Not Done</li>
   <li>Question 6                                      -                                       Done</li>
   <li>Question 7                                      -                                       Done</li>
-  <li>Question 8                                      -                                       Pending</li>
-  <li>Question 9                                      -                                       Pending</li>
-  <li>Question 10                                     -                                       Pending</li>
-  <li>Question 11                                     -                                       Pending</li>
-  <li>Question 12                                     -                                       Pending</li>
-  <li>Question 13                                     -                                       Pending</li>
+  <li>Question 8                                      -                                       Done</li>
+  <li>Question 9                                      -                                       Done</li>
+  <li>Question 10                                     -                                       Done</li>
+  <li>Question 11                                     -                                       Done</li>
+  <li>Question 12                                     -                                       Done</li>
+  <li>Question 13                                     -                                       Done</li>
   <li>Question 14                                     -                                       Pending</li>
   <li>Question 15                                     -                                       Pending</li>
   <li>Question 16                                     -                                       Pending</li>

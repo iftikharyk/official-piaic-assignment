@@ -140,3 +140,25 @@
 # weight = float(input("Input your weight in kilogram: "))
 # print("Your body mass index is: ", round(weight / (height * height), 2))
 # print("--------------End Program--------------------")
+
+# Question 14 : Sum of n Positive Integers
+# print("-------------Start Program-------------------")
+# n = int(input("Input a number: "))
+# sum_num = (n * (n + 1)) / 2
+# print("Sum of n Positive integers till " + str(n) + " is " + str(sum_num))
+# print("--------------End Program--------------------")
+
+# Question 15 : Digits Sum of a Number
+# print("-------------Start Program-------------------")
+# num = int(input("Input a four digit numbers: "))
+# x  = num
+# x1 = (num - x*1000)
+# x2 = (num - x*1000 - x1*100)
+# x3 = num - x*1000 - x1*100 - x2*10
+# print("The sum of digits in the number is", x+x1+x2+x3)
+# print("--------------End Program--------------------")
+
+# Question 16 : Decimal to Binary Converter
+print("-------------Start Program-------------------")
+
+print("--------------End Program--------------------")

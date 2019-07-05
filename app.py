@@ -68,7 +68,7 @@
 # for 
 # print("--------------End Program--------------------")
 
-# Question 5 : Check if number is Even or Odd
+# Question 6 : Check if number is Even or Odd
 # print("-------------Start Program-------------------")
 # num = int(input("Enter number: "))
 # if num % 2 == 0:
@@ -77,11 +77,11 @@
 #     print(str(num) + " is an Odd Number")
 # print("--------------End Program--------------------")
 
-# Question 6 : Vowel Tester
-print("-------------Start Program-------------------")
-word = input("Enter a letter: ")
-if word == "a" or word == "A" or word == "e" or word == "E" or word == "i" or word == "I" or word == "o" or word == "O" or word == "u" or word == "U":
-    print(word + " is a vovel")
-else:
-    print(word + " is not a vovel")
-print("--------------End Program--------------------")
+# Question 7 : Vowel Tester
+# print("-------------Start Program-------------------")
+# word = input("Enter a letter: ")
+# if word == "a" or word == "A" or word == "e" or word == "E" or word == "i" or word == "I" or word == "o" or word == "O" or word == "u" or word == "U":
+#     print(word + " is a vovel")
+# else:
+#     print(word + " is not a vovel")
+# print("--------------End Program--------------------")
